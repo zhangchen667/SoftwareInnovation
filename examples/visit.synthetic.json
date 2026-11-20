@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "0.1",
+  "synthetic": true,
+  "visitId": "demo-visit-02",
+  "subjectId": "demo-person",
+  "baselineVisitId": "demo-visit-01",
+  "modelState": "ready",
+  "geometryUnit": "model_unit",
+  "physicalScaleVerified": false,
+  "observations": [
+    {
+      "toothId": "31",
+      "view": "front",
+      "comparable": false,
+      "reason": "occluded",
+      "displayDelta": null
+    }
+  ],
+  "wearableFeedback": {
+    "source": "simulated_watch",
+    "activity": "music",
+    "response": "try_again"
+  },
+  "share": {
+    "state": "private",
+    "doctorId": null
+  }
+}
